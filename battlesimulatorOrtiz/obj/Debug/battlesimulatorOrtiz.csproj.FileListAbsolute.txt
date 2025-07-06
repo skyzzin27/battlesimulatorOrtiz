@@ -1,0 +1,15 @@
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\bin\Debug\battlesimulatorOrtiz.exe.config
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\bin\Debug\battlesimulatorOrtiz.exe
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\bin\Debug\battlesimulatorOrtiz.pdb
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.csproj.AssemblyReference.cache
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.Battle.resources
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.GameOverForm.resources
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.Properties.Resources.resources
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.SelectForm.resources
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.StartForm.resources
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.VictoryForm.resources
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.csproj.GenerateResource.cache
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.csproj.CoreCompileInputs.cache
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.exe
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.pdb
+E:\battlesimulatorOrtiz\battlesimulatorOrtiz\obj\Debug\battlesimulatorOrtiz.exe.config
